@@ -10,4 +10,4 @@ for i in range (10):
 
 print("A quantidade de números pares é: ", num_par)
 print("A quantidade de números ímpares é: ", num_ímpar)
-''
+'
